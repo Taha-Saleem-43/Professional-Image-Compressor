@@ -40,6 +40,8 @@ A modern web-based image compressor that allows you to **optimize JPEG, PNG, and
    - Single image → downloads as `filename_compressed.jpg`
    - Multiple images → downloads as `compressed_images.zip`
 
+---
+
 ## ⚙️ Notes
 
 - Compression is **done client-side**, so no images leave your computer.
