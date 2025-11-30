@@ -50,5 +50,3 @@ A modern web-based image compressor that allows you to **optimize JPEG, PNG, and
 
 ---
 
-## 📂 Project Structure
-
